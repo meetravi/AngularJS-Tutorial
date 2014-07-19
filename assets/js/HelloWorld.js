@@ -8,19 +8,19 @@
     app.controller("CallHelloWorld",function($scope){
         this.text="Angular from the Awesome Controller !!!";
         $scope.folks = [{
-            name:"Ravi",
+            name:"Tom",
             hobby:"Photography, Travel",
             profession:"JS Consultant",
             availableForContract:true,
             rate: 400
         },{
-            name:"Krithi",
+            name:"Linda",
             hobby:"Sewing, Cooking",
             profession:"Secretary",
             availableForContract:false,
             rate: 350
         },{
-            name:"Manoj",
+            name:"John",
             hobby:"Cricket",
             profession:"Tableau Analyst",
             availableForContract:true,
